@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Your Sidebar Name"
-  avatar           : "trest.jpeg"
+  avatar           : "trest.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
