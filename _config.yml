@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "India"
-title                    : "Home         "
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Sourav"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Sourav Majumder"
   avatar           : "profile.png"
-  bio              : "Ph.D student IISc"
+  bio              : "Ph.D student at IISc"
   location         : "Bangalore, India"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
