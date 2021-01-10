@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "India"
-title                    : "Home"
+title                    : "Home         "
 title_separator          : "-"
 name                     : &name "Sourav"
 description              : &description "personal description"
